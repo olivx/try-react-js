@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "hello word",
+        "content": "this is my first content with react, this is so cool !",
+        "slug": "hello-word"
+    },
+    {
+        "id": 2,
+        "title": "who is the master",
+        "content": "leroy in the last dragon, this move is so cool",
+        "slug": "who-is-the-master"
+    },
+    {
+        "id": 3,
+        "title": "eyes of the tiger",
+        "content": "Rockyyy !!! no pain , no pain Rockyyy !!! ",
+        "slug": "eyes-of-the-tiger"
+    }
+]
