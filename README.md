@@ -4,6 +4,7 @@ estudo de react js
 
 ## partes do projeto
 - get start
+- display json data
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
